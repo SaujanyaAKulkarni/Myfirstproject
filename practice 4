@@ -1,0 +1,12 @@
+#take two comma separeted inputs from user
+#1).user's name
+#2).a single charecter
+
+output - 2 print lines
+#1).user's name length
+#2). count the charecter that user inputed(bonus : case insensitive count)
+name, char = input("enter comma separeted name and character :").split(",")
+print(f"length of your name is {len(name)}")
+print(f"charecter count : {name.lower().count(char.lower())}")# case sensitive
+# Saujanya - saujanya
+# S-s
