@@ -1,2 +1,11 @@
 # Myfirstproject
 sample project
+#******print these following lines******
+#this is \\double backslash
+#this is /\/\/\/\/\ mountain
+#he is     asesome(use escape sequenceinsted of manual space)
+#\"\n\t\'(print this as an output)
+print("This is\\\\ double backslash")
+print("these are /\\/\\/\\/\\/\\ mountains")
+print("he is\tawesome")
+print("\\\"\\n\\t\\\'")
