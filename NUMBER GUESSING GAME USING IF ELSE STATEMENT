@@ -1,4 +1,4 @@
-# EXERCISE , NUMBER GUESSING GAME
+# NUMBER GUESSING GAME
 # Make a variable , like winning_number and assign any number to it.
 # ask user to guess a number.
 # if user guessed correctly then print "YOU WIN !!!"
